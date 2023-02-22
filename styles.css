@@ -1,0 +1,20 @@
+.crop-img {
+    width: 200px;
+    height: 200px;
+}
+
+.bigImage {
+    width: 350px;
+    height: 350px;
+    border: 10px ridge #a4bfff;
+}
+
+
+.boldy {
+    font-weight: bolder;
+}
+
+
+.ind_border {
+    border: 10px ridge #a4fe90;;
+}
